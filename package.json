@@ -4,10 +4,10 @@
   "description": "task tracker",
   "main": "server.js",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "start": "node server.js"
   },
-  "author": "sait ibrahim",
+  "author": "sumanth hegde",
   "dependencies": {
     "json-server": "^0.17.0"
   }
